@@ -1,0 +1,4 @@
+-- 01_profiles.sql
+-- Created: 2025-08-15T00:00:00+10:00 (Australia/Melbourne)
+-- Schema for profiles table
+-- TODO: Add SQL schema for profiles

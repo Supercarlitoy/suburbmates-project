@@ -1,0 +1,4 @@
+-- 03_profiles_triggers.sql
+-- Created: 2025-08-15T00:00:00+10:00 (Australia/Melbourne)
+-- Triggers for profiles table
+-- TODO: Add triggers
